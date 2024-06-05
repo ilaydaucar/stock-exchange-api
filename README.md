@@ -35,7 +35,7 @@ Sample data for testing purposes will generate automatically
 
 To interact with the API endpoints using Postman, import the provided collection:
 
-[Stock Exchange API Postman Collection](https://github.com/ilaydaucar/stock-exchange-api/stock-exchange-api/src/main/resources/postman/Stock-Exchange.postman_collection.json)
+[Stock Exchange API Postman Collection](https://github.com/ilaydaucar/stock-exchange-api/src/main/resources/postman/Stock-Exchange.postman_collection.json)
 
 1. **Download and install Postman:**
     - If you haven't already installed Postman, you can download it from [here](https://www.postman.com/downloads/).
